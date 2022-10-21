@@ -1,0 +1,19 @@
+
+body{
+    background-color: grey;
+    background-size: cover;   
+}
+
+.header{
+    vertical-align: top;
+    text-align: left;
+    color: black;
+    font-size: 28px;
+}
+
+.p{
+    vertical-align: top;
+    text-align: left;
+    color: black;
+    font-size: 28px;
+}
